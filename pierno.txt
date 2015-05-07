@@ -1,0 +1,3 @@
+Start: Tu, 5 May 2015 17:25:00 -0800
+End: Tu, 5 May 2015 20:45:00 -0800
+Tasks: Started php assignment 2. Got everything working. Need to do cleanup and put in some css so its not so hard to look at.

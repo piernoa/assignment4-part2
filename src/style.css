@@ -1,0 +1,54 @@
+html {
+  color:white;
+  background-color:#3498FF;
+}
+.hidden {
+  display:none;
+}
+
+.inputItem {
+  width: 24%;
+  display:inline-flex;
+}
+
+.label {
+  padding-right: 5px;
+  margin: 0;
+  margin-top: 3px;
+}
+
+.formBox {
+  background-color:#3498FF;
+}
+.dottedBox {
+  outline: 1px solid white;
+  padding:15px;
+}
+
+input[type="submit"] {
+  position: relative;
+	padding: 10px 40px;
+  margin: 0px 10px 10px 0px;
+	border-radius: 10px;
+	font-size: 15px;
+	color: #FFF;
+	text-decoration: none;
+  background-color: #3498FF;
+}
+input[type="submit"]:active
+{
+	transform: translate(0px,4px);
+  -webkit-transform: translate(0px,4px);
+	border-bottom: 1px solid;
+}
+
+input[type="text"], input[type="number"] {
+  background-color: #3498FF;
+  text-decoration: none;
+  border: none;
+  border-bottom: 1px solid white;
+  color: white;
+  font-size: 1.2em;
+  margin-left: 11px;
+  margin-bottom: 5px;
+}
